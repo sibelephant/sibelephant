@@ -15,7 +15,7 @@ I thrive at the intersection of building beautiful UIs , building scalable APIs,
 
 Languages → JavaScript, TypeScript, Rust, Go, Python
 Frontend → React, Next.js, TailwindCSS
-Backend → Rust, Go, Node.js, Express, Gin
+Backend → Rust, Go, Node.js, Express, Gin 
 QA & Testing → Selenium, Cypress, Jest
 Tools →  Docker, Git, GitHub Actions
 
