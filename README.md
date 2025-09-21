@@ -1,48 +1,37 @@
 👨‍💻 Ibrahim Khalid
-Software Engineer | QA Specialist | Backend & Cloud Enthusiast
+Software Engineer | Frontend Developer | Backend and QA tester
 
-Hi, I’m Ibrahim Khalid — a dedicated Software Engineer with proven experience in Quality Assurance, growing expertise in backend development, and a strong interest in cloud technologies and security.
+Hi, I’m Ibrahim Khalid — a dedicated Software Engineer with proven experience inFrontend Development, growing expertise in backend development, and a strong interest in emerging technologies
 
-I thrive at the intersection of building reliable systems, automating quality checks, and ensuring application security. With hands-on work in Selenium, Cypress, React, Rust, Go,  I combine a testing mindset with engineering skills to deliver applications that are functional, scalable, and secure.
+I thrive at the intersection of building beautiful UIs , building scalable APIs, and ensuring application security. With hands-on work in React,Next js, Express and Go,  I combine a testing mindset with engineering skills to deliver applications that are functional, scalable, and secure.
 
 💼 Professional Highlights
+✅ Frontend development → Building responsive, interactive UIs with React, Next.js, TailwindCSS and GSAP.
+✅ Backend development → Implementing APIs, authentication systems (JWT, OAuth, sessions), and database interactions using Node.js, Postgresql, Go and Prisma ORM .
 
-✅ 2+ year QA Engineering experience → Designing, automating, and executing test cases with Selenium & Cypress.
 
-✅ Backend development → Implementing APIs, authentication systems (JWT, OAuth, sessions), and database interactions using Rust, Go, and Node.js.
-
-✅ Frontend development → Building responsive, interactive UIs with React, Next.js, and TailwindCSS.
-
-✅ Security & Bug Bounty Exploration → Practicing vulnerability detection, recon automation, and web app security principles.
 
 🛠️ Tech Stack
 
 Languages → JavaScript, TypeScript, Rust, Go, Python
 Frontend → React, Next.js, TailwindCSS
-Backend → Rust, Go, Node.js, Express
+Backend → Rust, Go, Node.js, Express, Gin
 QA & Testing → Selenium, Cypress, Jest
 Tools →  Docker, Git, GitHub Actions
-Security → Bug Bounty Research, Vulnerability Testing
 
 📌 Notable Projects
 
 🛒 E-commerce Backend
-Inventory management & authentication system (Rust/Go)
-
-💳 Mock Stripe
-Simulated payment gateway with secure transaction flow
-
-🎨 Color Generator App
-Lightweight React project focused on UI/UX customization
-
-📚 CRUD Applications (Next.js)
-Full-stack apps demonstrating API integration & data persistence
+Inventory management & authentication system (Express JS)
 
 🌐 Portfolio Website
 React + TypeScript project with animations & project highlights
 
-📊 GitHub Highlights
+📚 CRUD Applications (Next.js)
+Full-stack apps demonstrating API integration & data persistence
 
+🎨 Color Generator App
+Lightweight React project focused on UI/UX customization
 
 
 
@@ -53,5 +42,3 @@ React + TypeScript project with animations & project highlights
 
 
 📧 masterpiekhalid@gmail.com
-
-⭐️ “Driven by quality, building with precision, and securing with purpose.”
