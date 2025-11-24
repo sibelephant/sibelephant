@@ -1,44 +1,42 @@
-👨‍💻 Ibrahim Khalid
-Software Engineer | Frontend Developer | Backend and QA tester
+# Ibrahim Khalid
+### Software Engineer | Full-Stack Developer | QA Automation
 
-Hi, I’m Ibrahim Khalid — a dedicated Software Engineer with proven experience inFrontend Development, growing expertise in backend development, and a strong interest in emerging technologies
+Dedicated Software Engineer with experience building and testing full-stack applications. I specialize in creating responsive user interfaces with React/Next.js and engineering scalable, secure backend services using Go and Node.js.
 
-I thrive at the intersection of building beautiful UIs , building scalable APIs, and ensuring application security. With hands-on work in React,Next js, Express and Go,  I combine a testing mindset with engineering skills to deliver applications that are functional, scalable, and secure.
+---
 
-💼 Professional Highlights
-✅ Frontend development → Building responsive, interactive UIs with React, Next.js, TailwindCSS and GSAP.
-✅ Backend development → Implementing APIs, authentication systems (JWT, OAuth, sessions), and database interactions using Node.js, Postgresql, Go and Prisma ORM .
+### 🛠️ Tech Stack
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Go, TypeScript/JavaScript, Rust, Python |
+| **Frontend** | React, Next.js, Tailwind CSS, GSAP |
+| **Backend** | Go (Gin), Node.js (Express), PostgreSQL, Prisma ORM |
+| **Testing** | Cypress, Selenium, Jest |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, CI/CD |
 
+---
 
-🛠️ Tech Stack
+### 📌 Featured Projects
 
-Languages → JavaScript, TypeScript, Rust, Go, Python
-Frontend → React, Next.js, TailwindCSS
-Backend → Rust, Go, Node.js, Express, Gin 
-QA & Testing → Selenium, Cypress, Jest
-Tools →  Docker, Git, GitHub Actions
+**1. Go Microservices for E-commerce Platform**
+A backend system designed with a microservice architecture in Go. Services include Users (JWT Auth), Products (CRUD), and Orders. Deployed in Docker containers and built for scalability and independent deployment.
+*   **Tech:** `Go`, `Gin`, `PostgreSQL`, `Docker`, `JWT`, `REST APIs`
 
-📌 Notable Projects
+**2. Full-Stack Inventory Management System**
+A complete inventory tracking application featuring a React/Next.js frontend and a Go backend. Users can manage stock levels, view product details, and receive low-stock alerts.
+*   **Tech:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Go`, `Prisma`, `PostgreSQL`
 
-🛒 E-commerce Backend
-Inventory management & authentication system (Express JS)
+**3. Real-Time Chat Application**
+A web-based chat application built with a Go backend using WebSockets for real-time, bidirectional communication and a React frontend for the user interface.
+*   **Tech:** `React`, `Go`, `WebSockets`, `Gorilla WebSocket`
 
-🌐 Portfolio Website
-React + TypeScript project with animations & project highlights
+**4. URL Shortener Service**
+A high-performance URL shortening service written in Go. The service takes a long URL and generates a unique, shorter alias that redirects to the original URL. Includes API endpoints for creating and managing links.
+*   **Tech:** `Go`, `REST API`, `SQLite` or `Redis`
 
-📚 CRUD Applications (Next.js)
-Full-stack apps demonstrating API integration & data persistence
+---
 
-🎨 Color Generator App
-Lightweight React project focused on UI/UX customization
+### 🌍 Connect with Me
 
-
-
-🌍 Connect with Me
-
-💼 LinkedIn
-  www.linkedin.com/in/khalid-ibrahim-532385288
-
-
-📧 masterpiekhalid@gmail.com
+[**LinkedIn**](http://www.linkedin.com/in/khalid-ibrahim-532385288) | [**Email**](mailto:masterpiekhalid@gmail.com)
