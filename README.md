@@ -1,7 +1,7 @@
 # Ibrahim Khalid
 ### Software Engineer | Full-Stack Developer | QA Automation
 
-Dedicated Software Engineer with experience building and testing full-stack applications across web and mobile. I specialize in creating responsive user interfaces with React/Next.js and engineering scalable, secure backend services using Go and Node.js.
+Dedicated Software Engineer with experience in building and testing full-stack applications across web and mobile. I specialize in creating responsive user interfaces with React/Next.js and engineering scalable, secure backend services using Go and Node.js.
 
 ---
 
